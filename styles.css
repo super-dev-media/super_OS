@@ -1,0 +1,106 @@
+body {
+    font-family: sans-serif;
+    font-size: 27px;
+    margin: 0;
+    padding: 0;
+    margin-top: 0;
+}
+
+#top_bar {
+    position: fixed;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.773);
+    padding: 3px;
+    overflow: hidden;
+}
+
+#top_bar a{
+    color: rgb(8, 206, 140);
+    text-decoration: none;
+    padding-left: 17px;
+}
+
+#top_bar a:hover{
+    text-decoration: overline;
+    color: rgb(1, 123, 83);
+}
+
+#top {
+    text-align: center;
+    background-color: rgb(145, 230, 202);
+    padding: 35px;
+    padding: 45px;
+    font-size: 33px;
+}
+
+#top h1{
+    color: mediumseagreen;
+}
+
+#top p{
+    color: rgb(92, 92, 92);
+}
+
+#mehr_Informationen {
+    padding-left: 12%;
+    background-color: rgb(245, 245, 245);
+    padding: 38px;
+}
+
+#mehr_Informationen h2{
+    color: rgb(1, 123, 83);
+}
+
+#mehr_Informationen p{
+    color: rgb(60, 60, 60);
+}
+
+#Privatsphäre {
+    padding-left: 12%;
+    background-color: rgb(253, 255, 116);
+    padding: 38px;
+}
+
+#Privatsphäre h2{
+    color: darkgoldenrod;
+}
+
+#Privatsphäre {
+    color: rgb(59, 53, 36);
+}
+
+#Hinzufügen {
+    padding-left: 12%;
+    background-color: rgb(222, 158, 135);
+    padding: 38px;
+}
+
+#Hinzufügen h2{
+    color: brown;
+}
+
+#Hinzufügen p{
+    color: rgb(99, 44, 44);
+}
+
+#Hinzufügen a{
+    color: crimson;
+    text-decoration: underline dotted;
+}
+
+#HInzufügen a:hover{
+    color: rgb(134, 0, 27);
+}
+
+.line {
+    height: 3px;
+    background-color: rgb(1, 123, 83);
+}
+
+footer {
+    text-align: center;
+    font-size: 21px;
+    background-color: lightgray;
+    color: grey;
+    padding: 23px;
+}
